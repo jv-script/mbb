@@ -6,8 +6,8 @@ Getting started is super simple! Follow the steps below:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/themeselection/sneat-bootstrap-laravel-livewire-starter-kit.git
-   cd sneat-bootstrap-laravel-livewire-starter-kit
+   git clone [https://github.com/themeselection/sneat-bootstrap-laravel-livewire-starter-kit.git](https://github.com/jv-script/mbb.git)
+   cd mbb
    ```
 
 2. **Install Composer Dependencies**
